@@ -8,6 +8,10 @@ One of the key functions plots the average annualized return per asset class on 
 decade since 1940. 
 
 Potential improvements: 
--Adding more asset classes.
--Backtesting of different complex strategies
--Pull data online for key macro indicators.
+
+  -Adding more asset classes.
+
+  -Backtesting of different complex strategies
+  
+  -Pull data online for key macro indicators.
+
