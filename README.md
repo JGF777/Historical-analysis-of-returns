@@ -23,9 +23,9 @@ in a bar chart. This graph offers a good perspective given the current macroecon
 
 Potential improvements: 
 
-  -Adding more asset classes.
+    -Adding more asset classes.
 
-  -Backtesting of different complex strategies
-  
-  -Pull data online for key macro indicators.
+    -Backtesting of different complex strategies
+
+    -Pull data online for key macro indicators.
 
